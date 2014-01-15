@@ -9,6 +9,13 @@
 	color: #CC00AA;
 }
 
+/*.project {
+     margin-left: 20px;
+     background-color: #D1FFFB;
+     width: 525px;
+     padding: 20px;
+}*/
+
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
